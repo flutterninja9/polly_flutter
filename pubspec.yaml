@@ -4,7 +4,7 @@ description: >-
   replacements for FutureBuilder, StreamBuilder, network images, buttons,
   forms, and lists — all with automatic retry, circuit breaker, caching,
   rate limiting, and connectivity awareness baked in.
-version: 0.0.1
+version: 0.0.2
 homepage: https://anirudhsingh.in
 repository: https://github.com/flutterninja9/polly_flutter
 issue_tracker: https://github.com/flutterninja9/polly_flutter/issues
@@ -27,8 +27,6 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^6.0.0
   mockito: ^5.6.3
-
-publisher: anirudhsingh.in
 
 topics:
   - resilience
